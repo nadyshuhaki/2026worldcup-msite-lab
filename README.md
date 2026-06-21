@@ -1,2 +1,14 @@
 # 2026worldcup-msite-lab
-HTML page archive and documentation
+
+独立页面发布说明
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
